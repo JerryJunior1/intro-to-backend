@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/JerryJunior1/intro-to-backend#readme",
   "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
     "mongoose": "^9.1.5",
